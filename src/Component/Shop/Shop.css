@@ -1,0 +1,11 @@
+.twin-Container{
+  display:flex;
+  
+}
+.product-Container{
+  width:70%;
+  margin-left:20px;
+  margin-right:5px;
+  border-right: solid lightgreen;
+
+}
